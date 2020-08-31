@@ -45,5 +45,9 @@ $name = "اسمتون";
 $MadelineProto->account->updateProfile(['about' => "بازدید شما در ساعت $time .ثبت شد"]);
 //------------------------------------------------------------------------------
 echo 'OK ENJOY IT!';
-?>
+echo 'author: ma.orojloo';
+
+     echo "<a href='https://github.com/maorojloo'>more projects on github</a>";
+
+
 
